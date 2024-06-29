@@ -5,6 +5,10 @@ body{
     color: white;
 }
 
+li{
+    color: white;
+}
+
 .main{
     padding: 20px;
 }
@@ -18,6 +22,7 @@ body{
     padding: 20px;
     background-color: #E36414;
     border-radius: 5px;
+    color: #9A031E;
 }
 
 .sub1, .sub2{
